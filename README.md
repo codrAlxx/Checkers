@@ -1,2 +1,2 @@
-# Checkers
-Build A checkers Game and use AI to Implement the MinMax Algorithm on the Game.
+# Python-Checkers-AI
+A checkers AI using the minimax algorithm.
